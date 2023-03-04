@@ -1,0 +1,13 @@
+import:
+  - ~/.config/alacritty/themes/themes/gruvbox-dark.yaml
+
+font:
+  normal:
+    family: "FiraCode Nerd Font Mono"
+    style: Medium
+  size: 12.0
+
+shell:
+  program: /usr/local/bin/fish
+  args:
+    - --login
